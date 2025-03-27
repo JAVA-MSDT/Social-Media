@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: instagram
+  datasource:
+    url: jdbc:postgresql://localhost:5432/instagram_db
+    username: your_username
+    password: your_password
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

@@ -82,14 +82,6 @@ redirect-uri: your_redirect_uri
 
 ---
 
-## **Run the Project**
-
-### 1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/instagram-follower-comparison.git
-cd instagram-follower-comparison
-```
 ## **Features**
 1. OAuth Authentication: Authenticate users with Instagram via OAuth2.
 2. Instagram Data Fetching: Retrieve followers and following lists.
